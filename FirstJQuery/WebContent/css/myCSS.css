@@ -1,0 +1,14 @@
+.blue{
+	color:blue;
+}
+.important{
+	font-weight:bold;
+	font-size:xx-large;
+}
+.ancestor *{
+	display:block;
+	border:2px solid lightgrey;
+	color:lightgrey;
+	padding:5px;
+	margin:15px;
+}
